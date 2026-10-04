@@ -1,0 +1,13 @@
+C:\Users\Camilo\EXP.Set\EXP.Set\bin\Debug\EXP.Set.exe.config
+C:\Users\Camilo\EXP.Set\EXP.Set\bin\Debug\EXP.Set.exe
+C:\Users\Camilo\EXP.Set\EXP.Set\bin\Debug\EXP.Set.pdb
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.csproj.AssemblyReference.cache
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.Properties.Resources.resources
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.csproj.GenerateResource.cache
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.exe
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.pdb
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.exe.config
+C:\Users\Camilo\EXP.Set\EXP.Set\bin\Debug\LevelDeets.mdf
+C:\Users\Camilo\EXP.Set\EXP.Set\bin\Debug\LevelDeets_log.ldf
+C:\Users\Camilo\EXP.Set\EXP.Set\obj\Debug\EXP.Set.Tracker.resources

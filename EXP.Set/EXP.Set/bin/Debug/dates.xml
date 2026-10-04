@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<LevelDeetsDataSet xmlns="http://tempuri.org/LevelDeetsDataSet.xsd">
+  <xs:schema id="LevelDeetsDataSet" targetNamespace="http://tempuri.org/LevelDeetsDataSet.xsd" xmlns:mstns="http://tempuri.org/LevelDeetsDataSet.xsd" xmlns="http://tempuri.org/LevelDeetsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+    <xs:element name="LevelDeetsDataSet" msdata:IsDataSet="true" msdata:MainDataTable="http_x003A__x002F__x002F_tempuri.org_x002F_LevelDeetsDataSet.xsd_x003A_Leveled_Up" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Leveled_Up">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" />
+                <xs:element name="Date" type="xs:dateTime" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//mstns:Leveled_Up" />
+        <xs:field xpath="mstns:Id" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Leveled_Up>
+    <Id>-2</Id>
+    <Date>2026-09-06T10:59:14.2955739-04:00</Date>
+  </Leveled_Up>
+</LevelDeetsDataSet>
